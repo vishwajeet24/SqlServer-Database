@@ -62,4 +62,7 @@
   <ItemGroup>
     <Build Include="Product.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SqlServerDatabase.refactorlog" />
+  </ItemGroup>
 </Project>
